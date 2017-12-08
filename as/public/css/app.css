@@ -1,0 +1,19 @@
+.cz_button{
+width:10px;
+}
+.cz_province{
+    width:40px;
+}
+.cz_city{
+    width:60px;
+}
+.cz_detail_td_value{
+    width:40px;
+    text-align:center;
+}
+h3{
+	cursor:pointer;
+}
+body{
+font-size:14px;
+}
