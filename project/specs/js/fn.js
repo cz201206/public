@@ -9,7 +9,7 @@ function dataFromAnchor(a) {
 }
 
 //绘制圆-图标
-function drawCircle_icon() {
+function drawCircle_icon(ctx) {
     //context 样式
     var grad  = ctx.createLinearGradient(0,0,0,100);
     grad.addColorStop(0,'#007bef');    // 黄
