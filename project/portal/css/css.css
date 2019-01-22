@@ -24,3 +24,7 @@ body{
     margin:5px;
     cursor: pointer;
 }
+
+body, sub, sup {
+    position: static;
+}
