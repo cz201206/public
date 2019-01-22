@@ -1,0 +1,21 @@
+.form-control{
+    height: 4rem;
+    font-size: 2rem;
+}
+
+.cz-pointer{
+    cursor: pointer;
+}
+
+.cz-btn-55{
+    width: 55px;height: 55px;
+    margin-right: 45px;
+}
+
+body{
+    visibility:hidden;
+}
+
+.card{
+    background-color: inherit;
+}
