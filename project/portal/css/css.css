@@ -28,3 +28,19 @@ body{
 body, sub, sup {
     position: static;
 }
+
+.alert-normal{
+    background-color: #FBFBFB;
+    color:black;
+    border:1px solid rgba(32,35,50,.1);;
+}
+
+.cz-row-index-news{
+    width: 100%;
+    background-color: #f8f8f8;
+}
+
+content[data-v-24ef9a98] {
+    background-color: #fff;
+    border-radius: 4px;
+}
