@@ -44,3 +44,10 @@ content[data-v-24ef9a98] {
     background-color: #fff;
     border-radius: 4px;
 }
+
+.carousel-indicators li {
+    background-color: rgba(219, 60, 18, 0.5);
+}
+.carousel-indicators .active {
+    background-color: rgba(219, 60, 18, 0.9);
+}
